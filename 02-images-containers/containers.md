@@ -204,13 +204,3 @@ Understanding containers is one of the most fundamental concepts in Docker and s
 
 ---
 
-# Screenshots
-
-Add the following screenshots to this section:
-
-* `docker ps`
-* `docker ps -a`
-* Running Nginx container
-* Browser showing `http://localhost:8080`
-* `docker inspect my-nginx`
-* Container lifecycle commands (`stop`, `start`, and `rm`)
