@@ -250,4 +250,4 @@ It helps support the project and encourages future improvements.
 
 **Revanth B L**
 
-Learning DevOps • Linux • Docker • AWS • Kubernetes • Terraform • CI/CD 1 2 3 4 5
+Learning DevOps • Linux • Docker • AWS • Kubernetes • Terraform • CI/CD 1 2 3 4 5 6
